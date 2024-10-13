@@ -6,10 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-
-
-    <h2>Hello! I'm hero</h2>
-
-
+    <h2>I'm Navodya</h2>
 </body>
 </html>
